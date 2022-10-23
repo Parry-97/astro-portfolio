@@ -1,15 +1,16 @@
 ---
 layout: ../../../layouts/project.astro
-title: Lunar Eclipse
+title: Recommendation System
 client: Self
 publishDate: 2020-03-04 00:00:00
-img: https://images.unsplash.com/photo-1548391350-1a529f6ea42d?fit=crop&w=1400&h=700&q=75
+img: https://images.unsplash.com/photo-1495592822108-9e6261896da8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80
 description: |
-  We took some cool pictures of the moon and made a website about it.
+  Developed a very simple clustering based recommendation system.
 tags:
   - design
   - dev
-  - branding
+  - machine learning
+  - data analysis
 ---
 
 Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
